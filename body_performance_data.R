@@ -1,5 +1,6 @@
 #Project: Looking at how total number of sit-ups completed compares to physical factors such as body composition and age
 #After analyzing the original data, I created a predictive model to see if there is an accurate way to predict the number of sit-ups an individual can complete based on body composition
+#This data is provided by the "Body performance Data" data set by Kukuroo3 (2022). This data set was discovered on Kaggle
 
 #Opening required libraries:
 library(dplyr)
